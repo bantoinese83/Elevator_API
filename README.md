@@ -6,7 +6,7 @@ This project provides a simple Elevator API implemented in Python using Flask. I
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/elevator-api.git
+1. Clone the repository: git clone https://github.com/bantoinese83/Elevator_API.git
 2. Install the required packages:
 ```bash
 pip install -r requirements.txt
